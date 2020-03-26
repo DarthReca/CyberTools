@@ -1,0 +1,3 @@
+[submodule "stego-toolkit"]
+	path = stego-toolkit
+	url = https://github.com/DominicBreuker/stego-toolkit.git
