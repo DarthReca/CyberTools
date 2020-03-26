@@ -1,3 +1,6 @@
 [submodule "stego-toolkit"]
 	path = stego-toolkit
 	url = https://github.com/DominicBreuker/stego-toolkit.git
+[submodule "btsnoop_parser"]
+	path = btsnoop_parser
+	url = https://github.com/k3170makan/btsnoop_parser.git
