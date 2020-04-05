@@ -8,7 +8,7 @@ PROJECT_ROOT="$(abspath $FOLDER/..)"
 
 echo "Starting container now..."
 docker run -it \
-           #--rm \
+            --name stegotoolkit \
            -p 127.0.0.1:8082:22 \
            -p 127.0.0.1:5901:5901 \
            -p 127.0.0.1:6901:6901 \
